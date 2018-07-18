@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dailies on My New Hugo Site</title>
-    <link>http://example.org/daily/</link>
+    <link>https://rhymegreen.github.io/daily/</link>
     <description>Recent content in Dailies on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Jul 2018 22:44:46 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/daily/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rhymegreen.github.io/daily/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Article</title>
-      <link>http://example.org/daily/first-article/</link>
+      <link>https://rhymegreen.github.io/daily/first-article/</link>
       <pubDate>Wed, 18 Jul 2018 22:44:46 +0800</pubDate>
       
-      <guid>http://example.org/daily/first-article/</guid>
+      <guid>https://rhymegreen.github.io/daily/first-article/</guid>
       <description>这是陆韵如的第一篇文章
  元素1 元素2 元素3  </description>
     </item>

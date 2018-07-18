@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/tech/java/</loc>
+    <loc>https://rhymegreen.github.io/tech/java/</loc>
     <lastmod>2018-07-18T22:50:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/daily/first-article/</loc>
+    <loc>https://rhymegreen.github.io/daily/first-article/</loc>
     <lastmod>2018-07-18T22:44:46+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://rhymegreen.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/daily/</loc>
+    <loc>https://rhymegreen.github.io/daily/</loc>
     <lastmod>2018-07-18T22:44:46+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://rhymegreen.github.io/</loc>
     <lastmod>2018-07-18T22:50:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://rhymegreen.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tech/</loc>
+    <loc>https://rhymegreen.github.io/tech/</loc>
     <lastmod>2018-07-18T22:50:33+08:00</lastmod>
     <priority>0</priority>
   </url>
